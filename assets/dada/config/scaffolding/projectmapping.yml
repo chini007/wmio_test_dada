@@ -1,0 +1,9 @@
+version: "1.0"
+projectName: Wmio_test_dadaProject
+runtimes:
+- runtimeAlias: insrsa_12_edge
+  assets:
+  - name: fld_820799737_stage00.projects.fl96f391adf8dfd282067f23.integrations:SampleFlowService
+    type: flow
+    stepId: /3
+    reference: fld_820799737_stage00.projects.fl96f391adf8dfd282067f23.WmPackageServiceProvider.SupportPkg.utils:supportService
