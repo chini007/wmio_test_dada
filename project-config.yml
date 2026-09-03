@@ -1,0 +1,9 @@
+project:
+  project-id: fl96f391adf8dfd282067f23
+  project-name: wmio_test_dada
+  external-git:
+    enabled: true
+    repository: chini007/wmio_test_dadaProject
+    api-repository-path: chini007/Wmio_test_dadaProject
+    branch: dev
+    account-alias: insrsa_github

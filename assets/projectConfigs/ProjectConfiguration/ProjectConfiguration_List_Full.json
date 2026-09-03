@@ -1,0 +1,75 @@
+{
+  "apiVersion": "1.0",
+  "metadata": {
+    "source": "psdev",
+    "project": "fl96f391adf8dfd282067f23",
+    "generatedOn": 1788426114311
+  },
+  "configurations": {
+    "packages": [
+      {
+        "packageName": "SupportPkg",
+        "gitUrl": "https://github.com/chini007",
+        "gitServerName": "insrsa_github",
+        "gitUserName": "chini007",
+        "gitBranch": "dev"
+      }
+    ],
+    "variables": [],
+    "connections": [],
+    "certificates": [],
+    "servicesSchedule": []
+  },
+  "globals": {
+    "alertRules": [],
+    "versionControlAccounts": [
+      {
+        "type": "github",
+        "hostname": "github.ibm.com",
+        "credentials": {
+          "username": "Srinivasan-Sabapathy",
+          "accessToken": ""
+        },
+        "displayName": "insrsa_ibm_github",
+        "owner": "gitops",
+        "expiryDate": "2026-03-24T15:48:25.000Z",
+        "isValidToken": true
+      },
+      {
+        "type": "github",
+        "hostname": "github.com",
+        "credentials": {
+          "username": "chini007",
+          "accessToken": ""
+        },
+        "displayName": "insrsa_github",
+        "owner": "gitops",
+        "expiryDate": "2026-09-08T12:31:09.000Z",
+        "isValidToken": true
+      },
+      {
+        "type": "bitbucket",
+        "hostname": "bitbucket.org",
+        "credentials": {
+          "username": "srinivasansabapathy",
+          "accessToken": ""
+        },
+        "displayName": "insrsa_bitbucket",
+        "owner": "gitops",
+        "isValidToken": true
+      },
+      {
+        "type": "external",
+        "hostname": "github.com",
+        "credentials": {
+          "username": "chini007",
+          "accessToken": ""
+        },
+        "displayName": "insrsa_github",
+        "owner": null,
+        "expiryDate": "2024-12-01T13:38:47.000Z",
+        "isValidToken": true
+      }
+    ]
+  }
+}

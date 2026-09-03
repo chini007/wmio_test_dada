@@ -1,0 +1,8 @@
+version: "1.0"
+packages:
+  SupportPkg:
+    branches:
+      play: dev
+      dev: qa
+      qa: qa
+      prod: prod
