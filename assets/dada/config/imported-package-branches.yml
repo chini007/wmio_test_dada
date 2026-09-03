@@ -3,6 +3,6 @@ packages:
   SupportPkg:
     branches:
       play: dev
-      dev: dev
+      dev: qa
       qa: qa
       prod: prod
